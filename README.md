@@ -1,7 +1,1 @@
-This program was made in order to reduce the time it takes to reformat a given spreadsheet, saving a company hundreds of hours a year in regards to payroll and essentially automating this job.
-
-A normal excel spreadsheet take roughly one to three days to complete which would cost the company a few hundred dollars although this program is to complete that task in less than a second.
-
-For this program, I used libraries such as xlrd and xlsxwriter in order to interpret and manipulate the data within the spreadsheet. Both of these libraries are heavily documented and you should be able to find answers to all your questions online.
-
-If anyone needs help regarding manipulating data, feel free to contact me via email at Jeremy.Herrmann@stonybrook.edu
+During winter break, a few of my friends and I from Stony Brook University, RPI, University of Buffalo, and Carnegie Mellon University decided to make a drone from scratch. We began by heavily researching the parts we would need, ordering the parts and messing around with them. After drawing the entire circuit the drone would be wired with, I started writing the software that would be controlling the Motors and Electronic Speed Controllers, Joysticks, Accelerometer, Ultrasonic sensor and Radio Frequency to control the drone. During the process of creating the drone, we ran into a few problems including soldering issues and time constraints for 3D printing the body of the drone although we made it all work. In the future, I will be including a picture of the drone and a video of it's flight. If you have any questions regarding the parts we used, the software, or the 3d printed model of the drone, don't hesitate to contact me via email at Jeremy.Herrmann@stonybrook.edu
